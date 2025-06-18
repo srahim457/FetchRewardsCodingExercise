@@ -28,7 +28,7 @@ The objective of this exercise is to build a native Android app that organizes d
 - **ApiService.kt:** Interface for API call
 
 #### UI ####
-- **Color.kt** - Fetch brand colors 
+- **Color.kt** - assign the Fetch brand colors 
 - **Theme.kt** - applying color scheme
 - **Type.kt** - Typography configuration
 
