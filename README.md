@@ -40,4 +40,8 @@ The objective of this exercise is to build a native Android app that gets data f
 - **Collapsible Grouping:** To make it easier to read I've made each grouping a collapsible list. 
 - **Logo On-Click Collapse/Expand:** The display opens with all the groups expanded, pressing the logo will collapse/expand all groups.
 
+ Expanded Sections | Collapsed Sections |
+|-------------------|-------------------|
+| ![Expanded](screenshots/ExpandedList.png) | ![Collapsed](screenshots/CollapsedLists.png) |
+
 ## Thank you for your time!
