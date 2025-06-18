@@ -1,7 +1,7 @@
 # Fetch Rewards Android Coding Exercise
 ## By Shonel Rahim
 
-The objective of this exercise is to build a native Android app that gets data from a JSON stored in a provided URL and groups all the data entries by `listId` and sorts each group by `name`.
+The objective of this exercise is to build a native Android app that organizes data from a JSON file provided in the form of a URL. All the data entries must first be grouped by their `listId` and each group is then sorted by the `name` of the entries.
 
 ## Implementation
 
